@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strike_count">0</string>
+    <string name="strike_button_label">Strikes</string>
+    <string name="ball_count">0</string>
+    <string name="ball_button_label">Ball</string>
+    <string name="ball_label">Balls:</string>
+    <string name="strike_label">Strikes:</string>
+</resources>
+
+
